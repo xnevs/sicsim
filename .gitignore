@@ -1,0 +1,6 @@
+/asm
+/gsim
+/sim
+*.log
+*.lst
+*.obj
