@@ -18,3 +18,5 @@ The `asm` binary is the assembler that takes a `.asm` file (e.g., `examples/hano
 The `sim` binary is the command line SIC/XE emulator. After running `./sim` type `help` to learn more.
 
 The `gsim` binary is the graphical SIC/XE emulator.
+
+![screenshot](/gsim.png?raw=true "gsim screenshot")
